@@ -7,6 +7,7 @@ print(int(1+2))
 print(int(10*2))
 print(int(1 + 4 - 2))
 print(float(1 + 2.0))
+
 # Operadores matematicos
 # +
 # -
@@ -20,6 +21,7 @@ print(float(10%3))
 print(float(25%4))
 print(float(16%2))
 print(float(10 / 3))
+
 
 # variables
 print("========VARIABÑES===========")
@@ -40,6 +42,7 @@ print(some_string)
 
 print("=============Condicionales===========")
 edad = 18
+
 
 if (edad >= 18):
     print("Si puedes entrar al Bar!!!!")
@@ -63,3 +66,5 @@ def par_impar(numero):
 mi_numero = int(input("¿Cual es el numero que deses verificar?: "))
 print(f"El numero que deseas verificar es {mi_numero}")
 print(par_impar(mi_numero))
+
+
