@@ -16,3 +16,12 @@ mi_diccionario = {"mi_lista": mi_lista,
 print ("Llave para accesar a mi diccionario mi_lista", mi_diccionario["mi_lista"])
 print ("Llave para mi diccionario pi", mi_diccionario["Pi"])
 print ("Llave para accesar a mi diccionario tel", mi_diccionario["Tel"])
+
+i = 0
+
+while i < 5:
+    if i == 3:
+        print(i)
+
+else: 
+        print("i es ahora mayor o igual a 5")
