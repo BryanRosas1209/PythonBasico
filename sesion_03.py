@@ -26,6 +26,14 @@ while contador < 3:
 
 
 # While loop
+i = 0
+
+while i < 5:
+    if i == 3:
+        print(i)
+
+else: 
+        print("i es ahora mayor o igual a 5")
 
 
 # Practica 2
